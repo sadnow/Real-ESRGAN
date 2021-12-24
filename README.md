@@ -1,3 +1,7 @@
+This fork is primarily intended for assuring long-term compatbility with sadnow's (https://github.com/sadnow) projects.
+
+---
+
 # Real-ESRGAN
 
 [![download](https://img.shields.io/github/downloads/xinntao/Real-ESRGAN/total.svg)](https://github.com/xinntao/Real-ESRGAN/releases)
